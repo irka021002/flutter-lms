@@ -81,7 +81,7 @@ Page resource error:
           );
         },
       )
-      ..loadRequest(Uri.parse('http://school.hazain.id/dashboard'));
+      ..loadRequest(Uri.parse('http://103.167.113.22/lms/dashboard'));
 
     if (controller.platform is AndroidWebViewController) {
       AndroidWebViewController.enableDebugging(true);

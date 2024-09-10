@@ -11,7 +11,7 @@ class SplashScreen extends StatelessWidget {
         );
       },
       child: Image.asset(
-        'assets/splash.jpg',
+        'assets/splash.png',
         width: double.infinity,
       ),
     );
